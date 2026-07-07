@@ -9,16 +9,24 @@
 
 ---
 
-## Task 2: User Manual — Adding a Leopard using ChatGPT
+# User Manual: Adding a Leopard to an Image Using AI Tools
 
-This manual explains, step by step, how to sign up for ChatGPT and use it to add a leopard to an image.
+This manual explains, step by step, how to sign up for ChatGPT and Gemini, and how to use them together to add a leopard to an existing image without altering the rest of the scene.
 
-### Step 1: Sign up / Log in
+## Tools Used
+- **ChatGPT** (OpenAI) — used to analyze the original image and generate a precise editing prompt
+- **Gemini** (Google) — used to generate the final edited image from that prompt
 
-1. Go to [https://chat.openai.com](https://chat.openai.com)
-2. Click **"Sign up"** if you don't already have an account, or **"Log in"** if you do.
-3. Complete registration using your email address or a Google/Microsoft account.
-4. Once logged in, you will land on the main ChatGPT chat screen.
+---
+
+## Part 1: Signing In to ChatGPT with a Google Account
+
+1. Go to [https://chat.openai.com](https://chat.openai.com).
+2. Click **Log in**.
+3. Select **Continue with Google**.
+4. Choose your Google account from the account picker (or enter your Google credentials if not already signed in).
+5. Grant the requested permissions if prompted.
+6. You will be redirected automatically to the ChatGPT chat interface, now signed in with your Google account.
 
 ![](manual-signup.png)
 
